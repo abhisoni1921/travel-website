@@ -12,19 +12,17 @@ This project is a fully responsive modern UI/UX travel website for camping enthu
 - **Modern UI/UX**: Sleek and user-friendly interface.
 - **Next.js 14**: Utilizes the latest features and enhancements of Next.js.
 - **Tailwind CSS**: For efficient styling and customization.
-- **Deployed on Vercel**: Seamless deployment and hosting.
 
-## Live Demo
 
-Check out the live demo [here](https://travel-website-7db2mao8y-hitendras-projects-43f86e87.vercel.app/).
+
 
 ## Installation
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/hitendraa/travel-website.git
-    cd travel-website
+    git clone  https://github.com/abhisoni1921/travel-website1.git
+    cd travel-website1
     ```
 
 2. **Install dependencies**:
@@ -50,12 +48,6 @@ This project is deployed using Vercel. To deploy your own version:
 - **React.js**: For building interactive user interfaces.
 - **Next.js 14**: For server-side rendering and static site generation.
 - **Tailwind CSS**: For styling and responsive design.
-- **Vercel**: For deployment and hosting.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
