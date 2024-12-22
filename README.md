@@ -21,8 +21,8 @@ This project is a fully responsive modern UI/UX travel website for camping enthu
 1. **Clone the repository**:
 
     ```bash
-    git clone  https://github.com/abhisoni1921/travel-website1.git
-    cd travel-website1
+    git clone  https://github.com/abhisoni1921/travel-website.git
+    cd travel-website
     ```
 
 2. **Install dependencies**:
